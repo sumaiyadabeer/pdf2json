@@ -1,0 +1,418 @@
+[
+    {
+        "Customer Loyalty": "3",
+        "S_NO": "1",
+        "Email": "jbutt@gmail.com",
+        "PNR": "EMR56",
+        "Address": {
+            "Country": "Orleans",
+            "City": "New Orleans",
+            "Zip Code": "70116",
+            "Locality": "6649 N Blue Gum St"
+        },
+        "Phone": "504-621-8927"
+    },
+    {
+        "Customer Loyalty": "4",
+        "S_NO": "2",
+        "Email": "akjy@daraky.org",
+        "PNR": "EUR346",
+        "Address": {
+            "Country": "Livingston",
+            "City": "Brighton",
+            "Zip Code": "48116",
+            "Locality": "4 B Blue Ridge Blvd"
+        },
+        "Phone": "810-292-9388"
+    },
+    {
+        "Customer Loyalty": "3",
+        "S_NO": "3",
+        "Email": "art@venere.org",
+        "PNR": "AFR789",
+        "Address": {
+            "Country": "Gloucester",
+            "City": "Bridgeport",
+            "Zip Code": "8014",
+            "Locality": "8 W Cerritos Ave #54"
+        },
+        "Phone": "856-636-8749"
+    },
+    {
+        "Customer Loyalty": "5",
+        "S_NO": "4",
+        "Email": "lpaki@gmail.com",
+        "PNR": "EUR123",
+        "Address": {
+            "Country": "Anchorage",
+            "City": "Anchorage",
+            "Zip Code": "99501",
+            "Locality": "639 Main St"
+        },
+        "Phone": "907-385-4412"
+    },
+    {
+        "Customer Loyalty": "4",
+        "S_NO": "5",
+        "Email": "donette.folr@cox.net",
+        "PNR": "AFR567",
+        "Address": {
+            "Country": "Butler",
+            "City": "Hamilton",
+            "Zip Code": "45011",
+            "Locality": "34 Center St"
+        },
+        "Phone": "513-570-1893"
+    },
+    {
+        "Customer Loyalty": "2",
+        "S_NO": "6",
+        "Email": "simona@morasca.com",
+        "PNR": "AMR123",
+        "Address": {
+            "Country": "Ashland",
+            "City": "Ashland",
+            "Zip Code": "44805",
+            "Locality": "3 Mcauley Dr"
+        },
+        "Phone": "419-503-2484"
+    },
+    {
+        "Customer Loyalty": "4",
+        "S_NO": "7",
+        "Email": "tollner@yahoo.com",
+        "PNR": "AMR567",
+        "Address": {
+            "Country": "Cook",
+            "City": "Chicago",
+            "Zip Code": "60632",
+            "Locality": "7 Eads St"
+        },
+        "Phone": "773-573-6914"
+    },
+    {
+        "Customer Loyalty": "3",
+        "S_NO": "8",
+        "Email": "leota@hotmail.com",
+        "PNR": "EUR567",
+        "Address": {
+            "Country": "Santa Clara",
+            "City": "San Jose",
+            "Zip Code": "95111",
+            "Locality": "7 W Jackson Blvd"
+        },
+        "Phone": "408-752-3500"
+    },
+    {
+        "Customer Loyalty": "5",
+        "S_NO": "9",
+        "Email": "sag_wieser@cox.net",
+        "PNR": "WPR546",
+        "Address": {
+            "Country": "Minnehaha",
+            "City": "Sioux Falls",
+            "Zip Code": "57105",
+            "Locality": "5 Boston Ave #88"
+        },
+        "Phone": "605-414-2147"
+    },
+    {
+        "Customer Loyalty": "5",
+        "S_NO": "10",
+        "Email": "kris@gmail.com",
+        "PNR": "EUR678",
+        "Address": {
+            "Country": "Baltimore City",
+            "City": "Baltimore",
+            "Zip Code": "21224",
+            "Locality": "228 Runamuck Pl #2808"
+        },
+        "Phone": "410-655-8723"
+    },
+    {
+        "Customer Loyalty": "5",
+        "S_NO": "11",
+        "Email": "mign@yahoo.com",
+        "PNR": "EUR128",
+        "Address": {
+            "Country": "Montgomery",
+            "City": "Kulpsville",
+            "Zip Code": "19443",
+            "Locality": "2371 Jerrold Ave"
+        },
+        "Phone": "215-874-1229"
+    },
+    {
+        "Customer Loyalty": "5",
+        "S_NO": "12",
+        "Email": "amacead@gmail.com",
+        "PNR": "AMR789",
+        "Address": {
+            "Country": "Suffolk",
+            "City": "Middle Island",
+            "Zip Code": "11953",
+            "Locality": "37275 St  Rt 17m M"
+        },
+        "Phone": "631-335-3414"
+    },
+    {
+        "Customer Loyalty": "4",
+        "S_NO": "13",
+        "Email": "kldarera@aol.com",
+        "PNR": "EMR456",
+        "Address": {
+            "Country": "Los Angeles",
+            "City": "Los Angeles",
+            "Zip Code": "90034",
+            "Locality": "25 E 75th St #69"
+        },
+        "Phone": "310-498-5651"
+    },
+    {
+        "Customer Loyalty": "4",
+        "S_NO": "14",
+        "Email": "gruta@cox.net",
+        "PNR": "SEAR378",
+        "Address": {
+            "Country": "Geauga",
+            "City": "Chagrin Falls",
+            "Zip Code": "44023",
+            "Locality": "98 Connecticut Ave Nw"
+        },
+        "Phone": "440-780-8425"
+    },
+    {
+        "Customer Loyalty": "4",
+        "S_NO": "15",
+        "Email": "calbares@gmail.com",
+        "PNR": "AMR902",
+        "Address": {
+            "Country": "Webb",
+            "City": "Laredo",
+            "Zip Code": "78045",
+            "Locality": "56 E Morehead St"
+        },
+        "Phone": "956-537-6195"
+    },
+    {
+        "Customer Loyalty": "4",
+        "S_NO": "16",
+        "Email": "mattie@aol.com",
+        "PNR": "EUR674",
+        "Address": {
+            "Country": "Maricopa",
+            "City": "Phoenix",
+            "Zip Code": "85013",
+            "Locality": "73 State Road 434 E"
+        },
+        "Phone": "602-277-4385"
+    },
+    {
+        "Customer Loyalty": "4",
+        "S_NO": "17",
+        "Email": "mean@hotmail.com",
+        "PNR": "EUR345",
+        "Address": {
+            "Country": "Warren",
+            "City": "Mc Minnville",
+            "Zip Code": "37110",
+            "Locality": "69734 E Carrillo St"
+        },
+        "Phone": "931-313-9635"
+    },
+    {
+        "Customer Loyalty": "3",
+        "S_NO": "18",
+        "Email": "gladys.rim@rim.org",
+        "PNR": "AMR781",
+        "Address": {
+            "Country": "Milwaukee",
+            "City": "Milwaukee",
+            "Zip Code": "53207",
+            "Locality": "322 New Horizon Blvd"
+        },
+        "Phone": "414-661-9598"
+    },
+    {
+        "Customer Loyalty": "2",
+        "S_NO": "19",
+        "Email": "yuki_wrey@aol.com",
+        "PNR": "AFR846",
+        "Address": {
+            "Country": "Wayne",
+            "City": "Taylor",
+            "Zip Code": "48180",
+            "Locality": "1 State Route 27"
+        },
+        "Phone": "313-288-7937"
+    },
+    {
+        "Customer Loyalty": "4",
+        "S_NO": "20",
+        "Email": "fletosi@yahoo.com",
+        "PNR": "SEAR901",
+        "Address": {
+            "Country": "Winnebago",
+            "City": "Rockford",
+            "Zip Code": "61109",
+            "Locality": "394 Manchester Blvd"
+        },
+        "Phone": "815-828-2147"
+    },
+    {
+        "Customer Loyalty": "5",
+        "S_NO": "21",
+        "Email": "bette_nicka@cox.net",
+        "PNR": "AMR671",
+        "Address": {
+            "Country": "Delaware",
+            "City": "Aston",
+            "Zip Code": "19014",
+            "Locality": "6 S 33rd St"
+        },
+        "Phone": "610-545-3615"
+    },
+    {
+        "Customer Loyalty": "4",
+        "S_NO": "22",
+        "Email": "vinouye@aol.com",
+        "PNR": "EUR661",
+        "Address": {
+            "Country": "Santa Clara",
+            "City": "San Jose",
+            "Zip Code": "95111",
+            "Locality": "6 Greenleaf Ave"
+        },
+        "Phone": "408-540-1785"
+    },
+    {
+        "Customer Loyalty": "3",
+        "S_NO": "23",
+        "Email": "willard@hotmail.com",
+        "PNR": "AFR810",
+        "Address": {
+            "Country": "Dallas",
+            "City": "Irving",
+            "Zip Code": "75062",
+            "Locality": "618 W Yakima Ave"
+        },
+        "Phone": "972-303-9197"
+    },
+    {
+        "Customer Loyalty": "2",
+        "S_NO": "24",
+        "Email": "mrter@royster.com",
+        "PNR": "AMR812",
+        "Address": {
+            "Country": "Albany",
+            "City": "Albany",
+            "Zip Code": "12204",
+            "Locality": "74 S Westgate St"
+        },
+        "Phone": "518-966-7987"
+    },
+    {
+        "Customer Loyalty": "4",
+        "S_NO": "25",
+        "Email": "alisha@slusarski.com",
+        "PNR": "WPR457",
+        "Address": {
+            "Country": "Middlesex",
+            "City": "Middlesex",
+            "Zip Code": "8846",
+            "Locality": "3273 State St"
+        },
+        "Phone": "732-658-3154"
+    },
+    {
+        "Customer Loyalty": "5",
+        "S_NO": "26",
+        "Email": "alleurbide@cox.net",
+        "PNR": "EUR890",
+        "Address": {
+            "Country": "Portage",
+            "City": "Stevens Point",
+            "Zip Code": "54481",
+            "Locality": "1 Central Ave"
+        },
+        "Phone": "715-662-6764"
+    },
+    {
+        "Customer Loyalty": "5",
+        "S_NO": "27",
+        "Email": "chanely@caudy.org",
+        "PNR": "AFR345",
+        "Address": {
+            "Country": "Johnson",
+            "City": "Shawnee",
+            "Zip Code": "66218",
+            "Locality": "86 Nw 66th St #8673"
+        },
+        "Phone": "913-388-2079"
+    },
+    {
+        "Customer Loyalty": "5",
+        "S_NO": "28",
+        "Email": "ezekiel@chui.com",
+        "PNR": "AFR127",
+        "Address": {
+            "Country": "Talbot",
+            "City": "Easton",
+            "Zip Code": "21601",
+            "Locality": "2 Cedar Ave #84"
+        },
+        "Phone": "410-669-1642"
+    },
+    {
+        "Customer Loyalty": "5",
+        "S_NO": "29",
+        "Email": "wkusko@yahoo.com",
+        "PNR": "WPR789",
+        "Address": {
+            "Country": "New York",
+            "City": "New York",
+            "Zip Code": "10011",
+            "Locality": "90991 Thorburn Ave"
+        },
+        "Phone": "212-582-4976"
+    },
+    {
+        "Customer Loyalty": "3",
+        "S_NO": "30",
+        "Email": "bfigeroa@aol.com",
+        "PNR": "AFR123",
+        "Address": {
+            "Country": "Montgomery",
+            "City": "Conroe",
+            "Zip Code": "77301",
+            "Locality": "386 9th Ave N"
+        },
+        "Phone": "936-336-3951"
+    },
+    {
+        "Customer Loyalty": "4",
+        "S_NO": "31",
+        "Email": "ammie@corrio.com",
+        "PNR": "AMR123",
+        "Address": {
+            "Country": "Franklin",
+            "City": "Columbus",
+            "Zip Code": "43215",
+            "Locality": "74874 Atlantic Ave"
+        },
+        "Phone": "614-801-9788"
+    },
+    {
+        "Customer Loyalty": "5",
+        "S_NO": "32",
+        "Email": "fralka@vocelka.com",
+        "PNR": "AFR678",
+        "Address": {
+            "Country": "Dona Ana",
+            "City": "Las Cruces",
+            "Zip Code": "88011",
+            "Locality": "366 South Dr"
+        },
+        "Phone": "505-977-3911"
+    }
+]

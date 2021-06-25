@@ -1,0 +1,322 @@
+[
+    {
+        "amount": "0",
+        "S_NO": "1",
+        "sequence count": "34",
+        "PNR": "EMR56",
+        "currency code": "USN",
+        "Bag destination": "Orleans",
+        "issuer code": "1966862300",
+        "weight": "10"
+    },
+    {
+        "amount": "0",
+        "S_NO": "2",
+        "sequence count": "43",
+        "PNR": "EUR346",
+        "currency code": "XSU",
+        "Bag destination": "Livingston",
+        "issuer code": "1103002500",
+        "weight": "12"
+    },
+    {
+        "amount": "240",
+        "S_NO": "3",
+        "sequence count": "12",
+        "PNR": "AFR789",
+        "currency code": "PLN",
+        "Bag destination": "Gloucester",
+        "issuer code": "1963405600",
+        "weight": "15.6"
+    },
+    {
+        "amount": "1900",
+        "S_NO": "4",
+        "sequence count": "5",
+        "PNR": "EUR123",
+        "currency code": "INR",
+        "Bag destination": "Anchorage",
+        "issuer code": "1103039400",
+        "weight": "20"
+    },
+    {
+        "amount": "0",
+        "S_NO": "5",
+        "sequence count": "2",
+        "PNR": "AFR567",
+        "currency code": "INR",
+        "Bag destination": "Butler",
+        "issuer code": "1945361626",
+        "weight": "6"
+    },
+    {
+        "amount": "3800",
+        "S_NO": "6",
+        "sequence count": "59",
+        "PNR": "AMR123",
+        "currency code": "INR",
+        "Bag destination": "Ashland",
+        "issuer code": "1102830300",
+        "weight": "25"
+    },
+    {
+        "amount": "300",
+        "S_NO": "7",
+        "sequence count": "13",
+        "PNR": "AMR567",
+        "currency code": "INR",
+        "Bag destination": "Cook",
+        "issuer code": "1963405600",
+        "weight": "18"
+    },
+    {
+        "amount": "1500",
+        "S_NO": "8",
+        "sequence count": "14",
+        "PNR": "EUR567",
+        "currency code": "INR",
+        "Bag destination": "Santa Clara",
+        "issuer code": "1101772500",
+        "weight": "23"
+    },
+    {
+        "amount": "11000",
+        "S_NO": "9",
+        "sequence count": "34",
+        "PNR": "WPR546",
+        "currency code": "INR",
+        "Bag destination": "Minnehaha",
+        "issuer code": "1900839330",
+        "weight": "44"
+    },
+    {
+        "amount": "0",
+        "S_NO": "10",
+        "sequence count": "8",
+        "PNR": "EUR678",
+        "currency code": "INR",
+        "Bag destination": "Baltimore City",
+        "issuer code": "1102633500",
+        "weight": "7"
+    },
+    {
+        "amount": "10900",
+        "S_NO": "11",
+        "sequence count": "16",
+        "PNR": "EUR128",
+        "currency code": "INR",
+        "Bag destination": "Montgomery",
+        "issuer code": "1864889650",
+        "weight": "40"
+    },
+    {
+        "amount": "0",
+        "S_NO": "12",
+        "sequence count": "13",
+        "PNR": "AMR789",
+        "currency code": "INR",
+        "Bag destination": "Suffolk",
+        "issuer code": "1103012340",
+        "weight": "11"
+    },
+    {
+        "amount": "350",
+        "S_NO": "13",
+        "sequence count": "11",
+        "PNR": "EMR456",
+        "currency code": "EUR",
+        "Bag destination": "Los Angeles",
+        "issuer code": "1949578800",
+        "weight": "19"
+    },
+    {
+        "amount": "200",
+        "S_NO": "14",
+        "sequence count": "16",
+        "PNR": "SEAR378",
+        "currency code": "EUR",
+        "Bag destination": "Geauga",
+        "issuer code": "1103008650",
+        "weight": "22.7"
+    },
+    {
+        "amount": "0",
+        "S_NO": "15",
+        "sequence count": "17",
+        "PNR": "AMR902",
+        "currency code": "EUR",
+        "Bag destination": "Webb",
+        "issuer code": "1942319730",
+        "weight": "12"
+    },
+    {
+        "amount": "22",
+        "S_NO": "16",
+        "sequence count": "18",
+        "PNR": "EUR674",
+        "currency code": "EUR",
+        "Bag destination": "Maricopa",
+        "issuer code": "1103011110",
+        "weight": "24"
+    },
+    {
+        "amount": "97",
+        "S_NO": "17",
+        "sequence count": "19",
+        "PNR": "EUR345",
+        "currency code": "CDF",
+        "Bag destination": "Warren",
+        "issuer code": "1969281990",
+        "weight": "35"
+    },
+    {
+        "amount": "0",
+        "S_NO": "18",
+        "sequence count": "20",
+        "PNR": "AMR781",
+        "currency code": "BGN",
+        "Bag destination": "Milwaukee",
+        "issuer code": "1103007420",
+        "weight": "1.8"
+    },
+    {
+        "amount": "23",
+        "S_NO": "19",
+        "sequence count": "22",
+        "PNR": "AFR846",
+        "currency code": "BGN",
+        "Bag destination": "Wayne",
+        "issuer code": "1969627660",
+        "weight": "25.4"
+    },
+    {
+        "amount": "123",
+        "S_NO": "20",
+        "sequence count": "25",
+        "PNR": "SEAR901",
+        "currency code": "AOA",
+        "Bag destination": "Winnebago",
+        "issuer code": "1103012340",
+        "weight": "43.2"
+    },
+    {
+        "amount": "167",
+        "S_NO": "21",
+        "sequence count": "28",
+        "PNR": "AMR671",
+        "currency code": "AOA",
+        "Bag destination": "Delaware",
+        "issuer code": "1967553640",
+        "weight": "28.4"
+    },
+    {
+        "amount": "98",
+        "S_NO": "22",
+        "sequence count": "29",
+        "PNR": "EUR661",
+        "currency code": "TJS",
+        "Bag destination": "Santa Clara",
+        "issuer code": "1103002500",
+        "weight": "39"
+    },
+    {
+        "amount": "0",
+        "S_NO": "23",
+        "sequence count": "30",
+        "PNR": "AFR810",
+        "currency code": "USN",
+        "Bag destination": "Dallas",
+        "issuer code": "1966862300",
+        "weight": "15"
+    },
+    {
+        "amount": "0",
+        "S_NO": "24",
+        "sequence count": "33",
+        "PNR": "AMR812",
+        "currency code": "XSU",
+        "Bag destination": "Albany",
+        "issuer code": "1103012217",
+        "weight": "14.9"
+    },
+    {
+        "amount": "209",
+        "S_NO": "25",
+        "sequence count": "32",
+        "PNR": "WPR457",
+        "currency code": "PLN",
+        "Bag destination": "Middlesex",
+        "issuer code": "1968417815",
+        "weight": "34.2"
+    },
+    {
+        "amount": "3000",
+        "S_NO": "26",
+        "sequence count": "23",
+        "PNR": "EUR890",
+        "currency code": "INR",
+        "Bag destination": "Portage",
+        "issuer code": "1103011110",
+        "weight": "23.5"
+    },
+    {
+        "amount": "978",
+        "S_NO": "27",
+        "sequence count": "25",
+        "PNR": "AFR345",
+        "currency code": "INR",
+        "Bag destination": "Johnson",
+        "issuer code": "1932295300",
+        "weight": "22.7"
+    },
+    {
+        "amount": "444",
+        "S_NO": "28",
+        "sequence count": "78",
+        "PNR": "AFR127",
+        "currency code": "INR",
+        "Bag destination": "Talbot",
+        "issuer code": "1103002500",
+        "weight": "21.9"
+    },
+    {
+        "amount": "222",
+        "S_NO": "29",
+        "sequence count": "8",
+        "PNR": "WPR789",
+        "currency code": "COU",
+        "Bag destination": "New York",
+        "issuer code": "1863161300",
+        "weight": "22.4"
+    },
+    {
+        "amount": "908",
+        "S_NO": "30",
+        "sequence count": "22",
+        "PNR": "AFR123",
+        "currency code": "MGA",
+        "Bag destination": "Montgomery",
+        "issuer code": "1102965600",
+        "weight": "29.7"
+    },
+    {
+        "amount": "340",
+        "S_NO": "31",
+        "sequence count": "27",
+        "PNR": "AMR123",
+        "currency code": "COU",
+        "Bag destination": "Franklin",
+        "issuer code": "1969627660",
+        "weight": "41.5"
+    },
+    {
+        "amount": "238",
+        "S_NO": "32",
+        "sequence count": "28",
+        "PNR": "AFR678",
+        "currency code": "MGA",
+        "Bag destination": "Dona Ana",
+        "issuer code": "1226009880",
+        "weight": "26.75"
+    }
+]

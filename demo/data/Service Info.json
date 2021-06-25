@@ -1,0 +1,194 @@
+[
+    {
+        "PNR": "EMR56",
+        "OSI": "Yes",
+        "S_NO": "1",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "EUR346",
+        "OSI": "NO",
+        "S_NO": "2",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "AFR789",
+        "OSI": "NO",
+        "S_NO": "3",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "EUR123",
+        "OSI": "NO",
+        "S_NO": "4",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "AFR567",
+        "OSI": "Yes",
+        "S_NO": "5",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "AMR123",
+        "OSI": "Yes",
+        "S_NO": "6",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "AMR567",
+        "OSI": "NO",
+        "S_NO": "7",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "EUR567",
+        "OSI": "Yes",
+        "S_NO": "8",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "WPR546",
+        "OSI": "Yes",
+        "S_NO": "9",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "EUR678",
+        "OSI": "Yes",
+        "S_NO": "10",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "EUR128",
+        "OSI": "NO",
+        "S_NO": "11",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "AMR789",
+        "OSI": "NO",
+        "S_NO": "12",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "EMR456",
+        "OSI": "Yes",
+        "S_NO": "13",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "SEAR378",
+        "OSI": "NO",
+        "S_NO": "14",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "AMR902",
+        "OSI": "Yes",
+        "S_NO": "15",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "EUR674",
+        "OSI": "Yes",
+        "S_NO": "16",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "EUR345",
+        "OSI": "Yes",
+        "S_NO": "17",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "AMR781",
+        "OSI": "Yes",
+        "S_NO": "18",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "AFR846",
+        "OSI": "NO",
+        "S_NO": "19",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "SEAR901",
+        "OSI": "NO",
+        "S_NO": "20",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "AMR671",
+        "OSI": "Yes",
+        "S_NO": "21",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "EUR661",
+        "OSI": "NO",
+        "S_NO": "22",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "AFR810",
+        "OSI": "Yes",
+        "S_NO": "23",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "AMR812",
+        "OSI": "Yes",
+        "S_NO": "24",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "WPR457",
+        "OSI": "NO",
+        "S_NO": "25",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "EUR890",
+        "OSI": "Yes",
+        "S_NO": "26",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "AFR345",
+        "OSI": "Yes",
+        "S_NO": "27",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "AFR127",
+        "OSI": "Yes",
+        "S_NO": "28",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "WPR789",
+        "OSI": "NO",
+        "S_NO": "29",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "AFR123",
+        "OSI": "Yes",
+        "S_NO": "30",
+        "SSI": "NO"
+    },
+    {
+        "PNR": "AMR123",
+        "OSI": "Yes",
+        "S_NO": "31",
+        "SSI": "Yes"
+    },
+    {
+        "PNR": "AFR678",
+        "OSI": "NO",
+        "S_NO": "32",
+        "SSI": "NO"
+    }
+]
